@@ -8,6 +8,7 @@ Download all files
 
 <img width="948" alt="Screenshot 2024-02-05 at 11 01 19 PM" src="https://github.com/amyollomani1/ToDo/assets/93606711/fa63ffc1-e2e1-4440-8d86-5461dcc6a224">
 
+# The Doing App
 
 ## Project Abstract
 What the product does and how it does it from a user point of view – at a high level. (You can include screenshot mockup of the interface)
